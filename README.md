@@ -1,3 +1,3 @@
 # Political Words Visualization
 
- https://youlan.github.io/yulanwang.github.io/
+ https://youlan.github.io/Political-Words-Visualization/

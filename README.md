@@ -1,6 +1,6 @@
 # Political Words Visualization
-README - 
-Yulan Wang
+
+Author: Yulan Wang
 
 In this project, I built an interactive visualization to explore the political polarity of words used in US governors' state of the state addresses. 
 

@@ -10,7 +10,6 @@ Mainly contains 4 parts:
 2. js folder
 3. Html
 4. Css
-No other libraries are used in this project
 
 
 URLs to 

@@ -14,7 +14,7 @@ No other libraries are used in this project
 
 
 URLs to 
-1. github page
-https://github.com/youlan/Political-Words-Visualization
-2. project visualization websites:
+1. project visualization websites:
+To achieve a good display effect, please use Chrome browser. Thanks!
 https://youlan.github.io/Political-Words-Visualization/
+
